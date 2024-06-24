@@ -1,0 +1,10 @@
+El sol es amarillo y la luna es negra.
+Si el sol es amarillo, entonces la luna no puede ser amarilla.
+La luna es blanca entonces, el sol no puede ser blanco.
+Cuando el sol es blanco, la luna no puede ser blanca.
+Si la luna es blanca, el sol no puede ser blanco.
+El sol es negro o la luna es blanca.
+la luna es negra o el sol es negro.
+Si la luna no es blanca, entonces el sol es blanco.
+El sol o la luna no pueden ser ambos negros.
+Si el sol y la luna son blancos no es de día.
